@@ -14,11 +14,15 @@ Legend:
 
 ## 1. Foundational Papers
 
-[1] GCN: Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
-[2] GAT: Veličković, Petar, et al. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017).
-[3] Monet: Monti, Federico, et al. "Geometric deep learning on graphs and manifolds using mixture model cnns." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017
-[4] GraphSage: Hamilton, William L., Rex Ying, and Jure Leskovec. "Inductive representation learning on large graphs." arXiv preprint arXiv:1706.02216 (2017).
-[5] Chebnet: Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. "Convolutional neural networks on graphs with fast localized spectral filtering." arXiv preprint arXiv:1606.09375 (2016).
+[1] Arch/*** GCN: Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
+
+[2] Arch/*** GAT: Veličković, Petar, et al. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017).
+
+[3] Arch/*** Monet: Monti, Federico, et al. "Geometric deep learning on graphs and manifolds using mixture model cnns." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017
+
+[4] Arch/*** GraphSage: Hamilton, William L., Rex Ying, and Jure Leskovec. "Inductive representation learning on large graphs." arXiv preprint arXiv:1706.02216 (2017).
+
+[5] Arch/*** Chebnet: Defferrard, Michaël, Xavier Bresson, and Pierre Vandergheynst. "Convolutional neural networks on graphs with fast localized spectral filtering." arXiv preprint arXiv:1606.09375 (2016).
 
 ## 2. Attention Mechanisms
 
